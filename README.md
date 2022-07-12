@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @npming
+- 👀 I’m interested in => unique startup ideas.
+- 🌱 I’m currently learning => Blockchain and AI.
+- 💞️ I’m looking to collaborate on => product development with any given technology.
+- 📫 How to reach me => Email: npming.dev@gmail.com.
+- 🦖 You can find various trending technologies examples and boilerplate setup for head start.
